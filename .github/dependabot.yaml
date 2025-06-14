@@ -4,6 +4,7 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    versioning-strategy: increase-if-necessary
         #ignore:
         #  #dependency-name: *
         #  update-types:
@@ -13,6 +14,7 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    versioning-strategy: increase-if-necessary
   - package-ecosystem: github-actions
     directory: /
     schedule:
@@ -20,4 +22,3 @@ updates:
 
 # TODO this is how to ignore labels...
 # labels:
-# versioning-strategy: increase-if-necessary
