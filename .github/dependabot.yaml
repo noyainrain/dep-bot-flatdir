@@ -14,11 +14,3 @@ updates:
     directory: /
     schedule:
       interval: weekly
-
-# TODO this is how to ignore labels...
-# labels:
-        #ignore:
-        #  #dependency-name: *
-        #  update-types:
-        #    - version-update:semver-minor
-        #    - version-update:semver-patch
