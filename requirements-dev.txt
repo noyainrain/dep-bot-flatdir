@@ -1,2 +1,2 @@
-mypy ~= 1.2
+mypy ~= 1.16
 pylint ~= 2.17
