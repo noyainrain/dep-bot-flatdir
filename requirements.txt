@@ -3,6 +3,6 @@ types-html5lib ~= 1.1
 Jinja2 ~= 3.1
 tornado ~= 6.2
 aiohttp ~= 2.0
-redis ~= 6.1
+redis ~= 7.1
 requests ~= 2.0
 cryptography ~= 45.0
